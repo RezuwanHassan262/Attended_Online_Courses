@@ -1,0 +1,1 @@
+These are the resources and assignment problems that I solved of the various online courses while attending the courses on coursera offered by universities like MIT/ Stanford/ Rice/ Vanderbilt University or Organizations like Meta/ Google/ Mistral/ Amazon etc on the platforms like Coursera and DeepLearning.AI 
